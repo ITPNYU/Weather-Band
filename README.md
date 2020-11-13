@@ -1,7 +1,5 @@
 # ITP Weather Band
 
-## Who We Are
-
 ITP Weather Band is an experimental band creating music, interactive objects, and visuals with weather data collected from a DIY weather station. We built a DIY weather station system and created experimental instruments that turn the environmental data into music and visuals. We explore new ways of delivering information and stories about our immediate environment through the auditory and visual sense. 
 
 The band consists of faculties, alums, and graduate students at New York University’s Interactive Telecommunications Program (NYU ITP). 
