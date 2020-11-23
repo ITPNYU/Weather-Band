@@ -4,7 +4,7 @@
 // November 2020
 // feel free to modify and play with it for your project!
 
-
+// making arrays for each weather data so you can access easily
 let recorded_at= [];
 let wind_dir = [];
 let winddir_avg2m = [];
@@ -22,18 +22,22 @@ let uvindex = [];
 
 function setup() {
   createCanvas(1000, 1000);
+  
   // Request the data from the weather band database
-  let url = 'https://cors-anywhere.herokuapp.com/http://157.230.182.5:8000/data/all?macAddress=A4:CF:12:8A:C8:24';
+  let url = 'https://cors-anywhere.herokuapp.com/http://weatherband.itp.io:3000/data/all?macAddress=A4:CF:12:8A:C8:24';
+  
+  // load the json file
   loadJSON(url, gotWeather);
 }
 
 function draw() {
-  background(135, 206, 235);
+  background(200);
   drawGraphs();
 }
 
 function gotWeather(weatherData) {  
 
+  // add each weather data to the arrays
   for (i = 0; i < weatherData.length; i++) {
     recorded_at.push(weatherData[i].recorded_at);
     wind_dir.push(weatherData[i].wind_dir);
@@ -48,6 +52,8 @@ function gotWeather(weatherData) {
     uva.push(weatherData[i].uva);
     uvb.push(weatherData[i].uvb);
   }
+  
+  // pring out the arrays loaded with weather data
   // console.log(recorded_at);
   // console.log(wind_dir);
   // console.log(winddir_avg2m);
@@ -63,7 +69,11 @@ function gotWeather(weatherData) {
   // console.log(uvb);
 }
 
-function drawGraphs() {
+function drawGraphs() { 
+  
+  // draw linear graphs for each data to see the trend
+  // the mapping is done based on the average range of each weather data
+  
   text("rainin", 30, 80);
   for (i = 0; i < recorded_at.length; i++) {
     let mapped = map(rainin[i], 0, 0.8, 100, 50);
