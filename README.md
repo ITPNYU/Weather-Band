@@ -19,3 +19,7 @@ We meet every other Friday. We also have a Slack group. Email us at yeseul.song@
 ## The Team
 
 tba
+
+## How to use our weather data API
+
+-this is how!-
