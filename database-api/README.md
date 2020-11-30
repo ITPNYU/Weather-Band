@@ -36,21 +36,28 @@ The macAddress is specific to each weather station that is online. There will be
 To access other locations' database in the future change the macAddress field in the url.
 
 ### GET
+
 **to read all records /data via cURL**
+
 ```curl -X GET -d macAddress=A4:CF:12:8A:C8:24 http://weatherband.itp.io:3000/data/all```
 
 **by /id**
+
 ```curl -X GET -d macAddress=A4:CF:12:8A:C8:24 http://weatherband.itp.io:3000/id/1```
 
 **by /category**
+
 ```curl -X GET -d macAddress=A4:CF:12:8A:C8:24 -d category=wind_dir,rainin http://weatherband.itp.io:3000/data/category```
 
 **by /date**
+
 ```curl -X GET -d macAddress=A4:CF:12:8A:C8:24 -d from='2020-11-25' -d to='2020-11-27' http://weatherband.itp.io:3000/data/date```
 
 **by /date including time**
+
 ```curl -X GET -d macAddress=A4:CF:12:8A:C8:24 -d from='2020-11-25T13' -d to='2020-11-27T09' http://weatherband.itp.io:3000/data/date```
 Here we are getting data from 2020-11-25 1:00pm - 2020-11-27 9:00am. For more specifics on the time format, check the [moment.js documentation](https://momentjs.com/docs/#/parsing/)
 
 ### POST
+
 If you want to setup your own weather station in a new location, come talk to us! We can provide you additional information including the session key needed to post data and set up a new table for your entries.
