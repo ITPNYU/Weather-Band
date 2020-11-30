@@ -56,6 +56,7 @@ To access other locations' database in the future change the macAddress field in
 **by /date including time**
 
 ```curl -X GET -d macAddress=A4:CF:12:8A:C8:24 -d from='2020-11-25T13' -d to='2020-11-27T09' http://weatherband.itp.io:3000/data/date```
+
 Here we are getting data from 2020-11-25 1:00pm - 2020-11-27 9:00am. For more specifics on the time format, check the [moment.js documentation](https://momentjs.com/docs/#/parsing/)
 
 ### POST
