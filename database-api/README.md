@@ -4,6 +4,7 @@ Adapted from Don Coleman's Connected Devices [source code](https://github.com/do
 
 Want to know what the weather is like in NYC right now? Or from a month ago? How about fetching a bunch of information from over time? ITP's Weatherband's weather station and server has been diligently capturing that and storing it in a database as of November 25th 2020 2:00PM EST and is available for you to use.
 
+
 ### Weather Information
 | data point      | type  |
 |-----------------|-------|
@@ -24,6 +25,8 @@ Want to know what the weather is like in NYC right now? Or from a month ago? How
 | uvb             | float |
 | uvindex         | float |
 
+
+
 ## The API
 
 The entirety of the New York City database can be read from here: 
@@ -34,6 +37,7 @@ The macAddress is specific to each weather station that is online. There will be
 `A4:CF:12:8A:C8:24` - New York City, New York
 
 To access other locations' database in the future change the macAddress field in the url.
+
 
 ### GET
 
