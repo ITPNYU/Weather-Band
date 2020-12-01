@@ -2,10 +2,6 @@
 
 Adapted from Mathura Govindarajan’s Connected Devices [source code](https://github.com/MathuraMG/itp-connected-devices) and referenced Don Coleman's documentation and adaptation [repo](https://github.com/don/itp-connected-devices).
 
-
-![system diagaram connecting arduino to server which connects to webclient and arduino client](https://github.com/ITPNYU/Weather-Band/blob/main/database-api/system_diagram.png)
-
-
 Want to know what the weather is like in NYC right now? Or from a month ago? How about fetching a bunch of information from over time? ITP's Weatherband's weather station and server has been diligently capturing that and storing it in a database as of November 25th 2020 2:00PM EST and is available for you to use.
 
 
@@ -82,3 +78,9 @@ Here we are getting data from 2020-11-25 1:00pm - 2020-11-27 9:00am. For more sp
 ### POST
 
 If you want to setup your own weather station in a new location, come talk to us! We can provide you additional information including the session key needed to post data and set up a new table for your entries.
+
+
+
+## System Diagram
+
+![system diagaram connecting arduino to server which connects to webclient and arduino client](https://github.com/ITPNYU/Weather-Band/blob/main/database-api/system_diagram.png)
