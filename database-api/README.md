@@ -41,25 +41,29 @@ To access other locations' database in the future change the macAddress field in
 
 ### GET
 
-**to read all records /data via cURL**
+**to read all records from each station /data via cURL**
+This endpoint will return all data from each station. You can specify the mac address of each station to get the specific data. 
 
+```url : http://weatherband.itp.io:3000/data/all?macAddress=A4:CF:12:8A:C8:24```
 ```curl -X GET -d macAddress=A4:CF:12:8A:C8:24 http://weatherband.itp.io:3000/data/all```
 
 **by /id**
+This endpoint wil return all data from that specific transaction ID. You can chage the id number to get specific data.
 
-```curl -X GET -d macAddress=A4:CF:12:8A:C8:24 http://weatherband.itp.io:3000/id/1```
+```url : http://weatherband.itp.io:3000/data/id/1```
+```curl -X GET http://weatherband.itp.io:3000/data/id/1```
 
 **by /category**
+This endpoint will return the all data points from that category. The endpoint can take a single category (eg. wind_dir )and a comma-separated list of categories (eg. wind_dir,rainin). Check out how to refer to each category in the table above. 
 
-```curl -X GET -d macAddress=A4:CF:12:8A:C8:24 -d category=wind_dir,rainin http://weatherband.itp.io:3000/data/category```
-
-**by /date**
-
-```curl -X GET -d macAddress=A4:CF:12:8A:C8:24 -d from='2020-11-25' -d to='2020-11-27' http://weatherband.itp.io:3000/data/date```
+```url : http://weatherband.itp.io:3000/data/by-cat?macAddress=A4:CF:12:8A:C8:24&cat=wind_dir,rainin```
+```curl -X GET -d macAddress=A4:CF:12:8A:C8:24 -d cat=wind_dir http://weatherband.itp.io:3000/data/by-cat```
 
 **by /date including time**
+This endpoint will take a from and to date and return all data point in that date range. 
 
-```curl -X GET -d macAddress=A4:CF:12:8A:C8:24 -d from='2020-11-25T13' -d to='2020-11-27T09' http://weatherband.itp.io:3000/data/date```
+```url : http://weatherband.itp.io:3000/data/date?macAddress=A4:CF:12:8A:C8:24&from='2020-11-27'&to='2020-11-28' ```
+```curl -X GET -d macAddress=A4:CF:12:8A:C8:24 -d from='2020-11-25' -d to='2020-11-27' http://weatherband.itp.io:3000/data/date```
 
 Here we are getting data from 2020-11-25 1:00pm - 2020-11-27 9:00am. For more specifics on the time format, check the [moment.js documentation](https://momentjs.com/docs/#/parsing/)
 
