@@ -1,6 +1,6 @@
 # Weather Server
 
-Adapted from Don Coleman's Connected Devices [source code](https://github.com/don/itp-connected-devices) and referenced Brent Bailey's ITPower Weather Server [repo].(https://github.com/brondle/itpower-weather-server)
+Adapted from Mathura Govindarajan’s Connected Devices [source code](https://github.com/MathuraMG/itp-connected-devices) and referenced Don Coleman's documentation and adaptation [repo](https://github.com/don/itp-connected-devices).
 
 Want to know what the weather is like in NYC right now? Or from a month ago? How about fetching a bunch of information from over time? ITP's Weatherband's weather station and server has been diligently capturing that and storing it in a database as of November 25th 2020 2:00PM EST and is available for you to use.
 
