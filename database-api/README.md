@@ -41,7 +41,7 @@ To access other locations' database in the future change the macAddress field in
 
 ### GET
 
-**to read all records from each station /data via cURL**
+**to read all records from each station**
 
 This endpoint will return all data from each station. You can specify the mac address of each station to get the specific data. 
 
