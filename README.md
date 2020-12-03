@@ -31,15 +31,15 @@ We meet every other Friday. We also have a Slack group. Email us at yeseul.song@
 ## The Team 
 (feel free to edit)
 
-🌞 Captains: Yeseul Song (creative directing / faculty), Tom Igoe (mentoring & advising / faculty)
+🌞 Captains: Yeseul Song (creative directing / faculty), Tom Igoe (mentoring & advising / faculty)  
 
-📡 Weather Station Development: Yeseul Song, Arnab A Chakravarty, Tom Igoe
-🖲 DB Development: Cy Kim, Atchareeya Name Jattuporn
-🕸 Website Design/Development_wip: Schuyler W DeVos, Yichan Wang (New School)
-📈 Weather Data Dashboard: Yiting Liu, Atchareeya Name Jattuporn, Cy Kim
+📡 Weather Station Development: Yeseul Song, Arnab A Chakravarty, Tom Igoe  
+🖲 DB Development: Cy Kim, Atchareeya Name Jattuporn  
+🕸 Website Design/Development_wip: Schuyler W DeVos, Yichan Wang (New School)  
+📈 Weather Data Dashboard: Yiting Liu, Atchareeya Name Jattuporn, Cy Kim  
 
-🥁 Performers: Atchareeya Name Jattuporn (2nd year), Cy Kim (2nd year), Schuyler W DeVos (2nd year), Yiting Liu (2nd year), Chun Song (2nd year), Nuntinee T (resident)
-🐣 Weather Instrument Incubator: Lu Lyu (2nd year), Esther Zhang (1st year), Sihan Zhang (1st year), Siyuan Zan (1st year), Jingyao Shao (1st year), Eamon Goodman (1st year), and more
+🥁 Performers: Atchareeya Name Jattuporn (2nd year), Cy Kim (2nd year), Schuyler W DeVos (2nd year), Yiting Liu (2nd year), Chun Song (2nd year), Nuntinee T (resident)  
+🐣 Weather Instrument Incubator: Lu Lyu (2nd year), Esther Zhang (1st year), Sihan Zhang (1st year), Siyuan Zan (1st year), Jingyao Shao (1st year), Eamon Goodman (1st year), and more  
 
-⚡️ Alums: Jesse Simpson (music producer '19), Sid Chou (performer '20), Brent Bailey (db development '20)
-🌏 Friends & Thanks To: Weather Station, Weather, Tisch, ITP, IMA, Jeff Feddersen (faculty), Yen-An Chen (staff)... (more to come)
+⚡️ Alums: Jesse Simpson (music producer '19), Sid Chou (performer '20), Brent Bailey (db development '20)  
+🌏 Friends & Thanks To: Weather Station, Weather, Tisch, ITP, IMA, Jeff Feddersen (faculty), Yen-An Chen (staff)... more to come
