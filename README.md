@@ -14,12 +14,20 @@ Listen to the weather music we created:
 
 ## Want to Join Us?
 
-We meet every other Friday. We also have a Slack group. Email us at yeseul.song@nyu.edu to join. If you are interested in hosting our performances, using our weather data, or collaborating with us, we're very open to hear about them.
+We meet every other Friday. We also have a Slack group. Email us at yeseul.song@nyu.edu to join. If you are interested in hosting our performances, using our weather data, or collaborating with us, we'd love to hear about them.
 
 ## The Team
 
 tba
 
-## How to use our weather data API
+## How to Use Our Weather Data API
 
--this is how!-
+[This is how!](https://github.com/ITPNYU/Weather-Band/tree/main/database-api)
+
+## Example Codes Using the Weather Data
+
+[Arduino and p5.js Examples](https://github.com/ITPNYU/Weather-Band/tree/main/get_weather_data)
+
+## System Diagram
+
+![system diagaram connecting arduino to server which connects to webclient and arduino client](https://github.com/ITPNYU/Weather-Band/blob/main/database-api/system_diagram.png)
