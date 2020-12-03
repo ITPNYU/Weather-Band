@@ -12,14 +12,6 @@ Watch our performances:
 Listen to the weather music we created:
 [Soundcloud](https://soundcloud.com/itp-weather-band)
 
-## Want to Join Us?
-
-We meet every other Friday. We also have a Slack group. Email us at yeseul.song@nyu.edu to join. If you are interested in hosting our performances, using our weather data, or collaborating with us, we'd love to hear about them.
-
-## The Team
-
-tba
-
 ## How to Use Our Weather Data API
 
 [This is how!](https://github.com/ITPNYU/Weather-Band/tree/main/database-api)
@@ -31,3 +23,12 @@ tba
 ## System Diagram
 
 ![system diagaram connecting arduino to server which connects to webclient and arduino client](https://github.com/ITPNYU/Weather-Band/blob/main/database-api/system_diagram.png)
+
+## Want to Join Us?
+
+We meet every other Friday. We also have a Slack group. Email us at yeseul.song@nyu.edu to join. If you are interested in hosting our performances, using our weather data, or collaborating with us, we'd love to hear about them.
+
+## The Team
+
+tba
+
