@@ -12,6 +12,10 @@ Watch our performances:
 Listen to the weather music we created:
 [Soundcloud](https://soundcloud.com/itp-weather-band)
 
+## Other Projects Using Our Weather Data
+* [Weather Data for Piano and Synthesizer by Jesse Simpson](https://jesse-simpson.com/Weather-Data-for-Piano-and-Synthesizer)
+* [Weahter Journal by Schuyler W DeVos](https://lazordiak.github.io/Weather-Journals/)
+
 ## How to Use Our Weather Data API
 
 [This is how!](https://github.com/ITPNYU/Weather-Band/tree/main/database-api)
