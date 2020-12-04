@@ -6,15 +6,15 @@ The band consists of faculties, alums, and graduate students at New York Univers
 
 ## Performances & Music
 
-Watch our performances:
+Watch our performances:  
 [Youtube Channel](https://www.youtube.com/channel/UCe3Dx3kf--1eICcKGkuHcYw/videos)
 
-Listen to the weather music we created:
+Listen to the weather music we created:  
 [Soundcloud](https://soundcloud.com/itp-weather-band)
 
 ## Other Projects Using Our Weather Data
-* [Weather Data for Piano and Synthesizer by Jesse Simpson](https://jesse-simpson.com/Weather-Data-for-Piano-and-Synthesizer)
-* [Weahter Journal by Schuyler W DeVos](https://lazordiak.github.io/Weather-Journals/)
+* [Weather Data for Piano and Synthesizer](https://jesse-simpson.com/Weather-Data-for-Piano-and-Synthesizer) by Jesse Simpson
+* [Weahter Journal](https://lazordiak.github.io/Weather-Journals/) by Schuyler W DeVos
 
 ## How to Use Our Weather Data API
 
