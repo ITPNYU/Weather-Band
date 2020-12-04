@@ -37,7 +37,7 @@ We meet every other Friday. We also have a Slack group. Email us at yeseul.song@
 
 🌞 Captains: Yeseul Song (creative directing / faculty), Tom Igoe (mentoring & advising / faculty)  
 
-🖲 DB Development: Cy Kim (2nd yr), Atchareeya Name Jattuporn (2nd yr)  
+🖲 DB Development: Cy Kim (2nd yr), Atchareeya Name Jattuporn (2nd yr) + thanks to Tirta W Rachman (2nd yr)
 📡 Weather Station Development: Yeseul Song, Arnab A Chakravarty, Tom Igoe  
 🕸 Website Design/Development_wip: Schuyler W DeVos, Yichan Wang (New School)    
 📈 Weather Data Dashboard: Yiting Liu (2nd yr), Atchareeya Name Jattuporn, Cy Kim  
