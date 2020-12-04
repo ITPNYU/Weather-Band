@@ -33,12 +33,12 @@ We meet every other Friday. We also have a Slack group. Email us at yeseul.song@
 
 🌞 Captains: Yeseul Song (creative directing / faculty), Tom Igoe (mentoring & advising / faculty)  
 
-🖲 DB Development: Cy Kim (2nd yr), Atchareeya Name Jattuporn (2nd yr)
-📡 Weather Station Development: Yeseul Song, Arnab A Chakravarty, Tom Igoe
-🕸 Website Design/Development_wip: Schuyler W DeVos, Yichan Wang (New School)  
+🖲 DB Development: Cy Kim (2nd yr), Atchareeya Name Jattuporn (2nd yr)  
+📡 Weather Station Development: Yeseul Song, Arnab A Chakravarty, Tom Igoe  
+🕸 Website Design/Development_wip: Schuyler W DeVos, Yichan Wang (New School)    
 📈 Weather Data Dashboard: Yiting Liu (2nd yr), Atchareeya Name Jattuporn, Cy Kim  
 
-🥁 Performers: Atchareeya Name Jattuporn, Yiting Liu, Schuyler W DeVos, Chun Song (2nd yr), Nuntinee T (resident)
+🥁 Performers: Atchareeya Name Jattuporn, Yiting Liu, Schuyler W DeVos, Chun Song (2nd yr), Nuntinee T (resident)  
 🐣 Weather Instrument Incubator: Lu Lyu (2nd yr), Esther Zhang (1st yr), Sihan Zhang (1st yr), Siyuan Zan (1st yr), Jingyao Shao (1st yr), Eamon Goodman (1st yr), and more  
 
 ⚡️ Alums: Jesse Simpson (music producer, performer '19), Sid Chou (performer '20), Brent Bailey (db development '20)  
