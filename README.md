@@ -46,4 +46,4 @@ We meet every other Friday. We also have a Slack group. Email us at yeseul.song@
 🐣 Weather Instrument Incubator: Lu Lyu (2nd yr), Esther Zhang (1st yr), Sihan Zhang (1st yr), Siyuan Zan (1st yr), Jingyao Shao (1st yr), Eamon Goodman (1st yr), and more  
 
 ⚡️ Alums: Jesse Simpson (music producer, performer '19), Sid Chou (performer '20), Brent Bailey (db development '20)  
-🌏 Thanks to & Friends: Weather Station, Weather, Tisch, ITP, IMA, Jeff Feddersen (faculty), Yen-An Chen (staff), more to come
+🌏 Thanks to & Friends: Weather Station, Weather, Tisch, ITP, IMA, Jeff Feddersen (faculty), Yen-An Chen (staff), Don Coleman (faculty). more to come
