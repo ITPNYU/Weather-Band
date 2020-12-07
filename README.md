@@ -2,7 +2,7 @@
 
 ITP Weather Band is an experimental band creating music, interactive objects, and visuals with weather data collected from a DIY weather station. We built a DIY weather station system and created experimental instruments that turn the environmental data into music and visuals. We explore new ways of delivering information and stories about our immediate environment through the auditory and visual sense. 
 
-The band consists of faculties, alums, and graduate students at New York University’s Interactive Telecommunications Program (NYU ITP). 
+The band consists of faculties, alums, and graduate students at New York University’s Interactive Telecommunications Program (NYU ITP). We launched in January 2020 as a sub-group of [ITPower](https://github.com/ITPNYU/ITPower) and have been growing since then.
 
 ## Performances & Music
 
@@ -53,4 +53,4 @@ We meet every other Friday. We also have a Slack group. Email us at yeseul.song@
 🐣 Weather Instrument Incubator: Lu Lyu (2nd yr), Esther Zhang (1st yr), Sihan Zhang (1st yr), Siyuan Zan (1st yr), Jingyao Shao (1st yr), Eamon Goodman (1st yr), and more  
 
 ⚡️ Alums: Jesse Simpson (music producer, performer '19), Sid Chou (performer '20), Brent Bailey (db development '20)  
-🌏 Thanks to & Friends: Weather Station, Weather, Tisch, ITP, IMA, Jeff Feddersen (faculty), Yen-An Chen (staff), Don Coleman (faculty). more to come
+🌏 Thanks to & Friends: Weather Station, Weather, Tisch, ITP, IMA, ITPower, Jeff Feddersen (faculty), Yen-An Chen (staff), Don Coleman (faculty). more to come
