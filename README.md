@@ -16,13 +16,19 @@ Listen to the weather music we created:
 * [Weather Data for Piano and Synthesizer](https://jesse-simpson.com/Weather-Data-for-Piano-and-Synthesizer) by Jesse Simpson
 * [Weahter Journal](https://lazordiak.github.io/Weather-Journals/) by Schuyler W DeVos
 
-## How to Use Our Weather Data API
-
+## Tutotrial
+### How to Use Our Weather Data API
 [This is how!](https://github.com/ITPNYU/Weather-Band/tree/main/database-api)
 
-## Example Codes Using the Weather Data
-
+### Example Codes For Jump-starting Your Weather Projects 
 [Arduino and p5.js Examples](https://github.com/ITPNYU/Weather-Band/tree/main/get_weather_data)
+
+### Workshops
+We hosted online open tutorial sessions on 11/13/2020 and 12/04/2020. The meeting recordings are here:
+* 12/04/2020 [Using the weather data from your p5.js and Arduino sketch](https://nyu.zoom.us/rec/share/GQtrZ3I40rFU3MTxJQJ0S5HGkhGdn4F4AKg4PN2G28Ipfl9miq2ZHjb4OWdHKGmk.nYYrENmHa4cjjhSQ
+)
+* 11/13/2020 [How our weather station system works](https://nyu.zoom.us/rec/share/QQrxWA2Bl2WAYZ-z64Fq8-Y3Ui6QQojueDSQ49C1E1uuDdpORD9-1w5GM20nSBmf.SjEKFFJJ9v-8rAGF). 
+For the password, please [email us](mailto:ys2643@nyu.edu).
 
 ## System Diagram
 
